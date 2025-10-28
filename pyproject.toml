@@ -49,7 +49,6 @@
   speechrecognition = "^3.10.0"
   streamlit-mic-recorder = "^0.0.4"
   fpdf = "^1.7.2"
-  fpdf = "^1.7.2"
   streamlit-webrtc = "^0.47.1"
   twilio = "^9.0.0"
   tzlocal = "^5.2"
