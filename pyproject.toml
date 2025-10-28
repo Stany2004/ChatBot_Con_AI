@@ -32,7 +32,7 @@
   pillow = "^10.2.0"
   pydantic = "^2.6.1"
   streamlit = "^1.31.1"
-  tiktoken = "^0.6.0"
+  tiktoken = {version = ">=0.5.2", extras = ["fast"], source = "pypi" }
   # Text to speech
   audio-recorder-streamlit = "^0.0.8"
   beautifulsoup4 = "^4.12.3"
